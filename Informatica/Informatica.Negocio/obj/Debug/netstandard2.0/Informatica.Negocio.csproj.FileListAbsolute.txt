@@ -1,0 +1,9 @@
+/home/kevin/Documentos/Informatica/Informatica.Negocio/bin/Debug/netstandard2.0/Informatica.Negocio.deps.json
+/home/kevin/Documentos/Informatica/Informatica.Negocio/bin/Debug/netstandard2.0/Informatica.Negocio.dll
+/home/kevin/Documentos/Informatica/Informatica.Negocio/bin/Debug/netstandard2.0/Informatica.Negocio.pdb
+/home/kevin/Documentos/Informatica/Informatica.Negocio/obj/Debug/netstandard2.0/Informatica.Negocio.csprojAssemblyReference.cache
+/home/kevin/Documentos/Informatica/Informatica.Negocio/obj/Debug/netstandard2.0/Informatica.Negocio.AssemblyInfoInputs.cache
+/home/kevin/Documentos/Informatica/Informatica.Negocio/obj/Debug/netstandard2.0/Informatica.Negocio.AssemblyInfo.cs
+/home/kevin/Documentos/Informatica/Informatica.Negocio/obj/Debug/netstandard2.0/Informatica.Negocio.csproj.CoreCompileInputs.cache
+/home/kevin/Documentos/Informatica/Informatica.Negocio/obj/Debug/netstandard2.0/Informatica.Negocio.dll
+/home/kevin/Documentos/Informatica/Informatica.Negocio/obj/Debug/netstandard2.0/Informatica.Negocio.pdb

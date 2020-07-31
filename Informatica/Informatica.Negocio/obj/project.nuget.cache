@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZrjjM1uw33NP49x/sjWPpYJY4xwYXz1ug5ZkJaqAz2R0jjqNed/lbR5d5LkJArv9GDXSr/4o+GqEMLBI6Ahqw==",
+  "success": true,
+  "projectFilePath": "/home/kevin/Documentos/Informatica/Informatica.Negocio/Informatica.Negocio.csproj",
+  "expectedPackageFiles": [
+    "/home/kevin/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/kevin/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
